@@ -71,4 +71,4 @@ tests/test_game_logic.py::test_empty_and_text_guess_rejected PASSED      [100%]
 
 ## 🚀 Stretch Features
 
-- **Challenge 1: Advanced Edge-Case Testing.** Added pytest cases for negative, decimal, extremely large, padded, blank and non-numeric guesses (`tests/test_game_logic.py`). `parse_guess` rejects anything that isn't a whole number in range without using up an attempt. The passing output is under Test Results above; the prompts and the reason for each edge case are in `ai_interactions.md`.
+- [ ] [If you choose to complete Challenge 4, describe the Enhanced UI changes here — a screenshot is optional]
